@@ -1,0 +1,2 @@
+# bonsai_rats_Behavior_trajectory_analysis
+利用bonsai画小鼠的行为轨迹，实时绘制追踪轨迹，求解头部偏转角度，运动速度，设置特定区域，进入则给外界matlab发送指令，触发looming;可以批量处理，结合python 可以求解出热力图
